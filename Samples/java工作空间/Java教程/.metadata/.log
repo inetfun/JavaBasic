@@ -1,0 +1,258 @@
+!SESSION 2010-06-16 16:41:20.921 -----------------------------------------------
+eclipse.buildId=M20090211-1700
+java.version=1.6.0_13
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: OpenResourceDialog_openButton_text in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: OpenResourceDialog_openWithMenu_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: OpenResourceDialog_openWithButton_toolTip in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: CleanDialog_cleanSelectedTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: CleanDialog_cleanAllTaskName in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobTitle in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: MarkerDeleteHandler_JobMessageLabel in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_NumberOfWorkspaces_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_PromptAtStartup_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RecentWorkspacesList_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: RecentWorkspacesPreferencePage_RemoveButton_label in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_preHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:21.984
+!MESSAGE NLS unused message: IDEWorkbenchAdvisor_postHistoryCompaction in: org.eclipse.ui.internal.ide.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.390
+!MESSAGE NLS unused message: resources_wrongMarkerAttributeValueType in: org.eclipse.core.internal.utils.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.390
+!MESSAGE NLS unused message: url_couldNotResolve_projectDoesNotExist in: org.eclipse.core.internal.utils.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: Shortcuts_shortcutTab in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: Shortcuts_selectShortcutsLabel in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: Shortcuts_availableMenus in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: Shortcuts_availableCategories in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: Shortcuts_allShortcuts in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: Util_listNull in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: Perspective_couldNotBeFound in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogMessage in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: OpenBrowserHandler_NoInfoDialogTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.625
+!MESSAGE NLS unused message: AboutDialog_DetailsButton in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.640
+!MESSAGE NLS unused message: AboutFeaturesDialog_SimpleTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.640
+!MESSAGE NLS unused message: InstallationDialog_ShellTitle in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.640
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportTooltip in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:38.640
+!MESSAGE NLS unused message: WorkbenchStatusDialog_SupportHyperlink in: org.eclipse.ui.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:39.046
+!MESSAGE NLS unused message: InternalError in: org.eclipse.ui.internal.progress.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.531
+!MESSAGE NLS unused message: JavadocConfigurationBlock_OK_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.531
+!MESSAGE NLS unused message: JavadocConfigurationBlock_Open_label in: org.eclipse.jdt.internal.ui.preferences.PreferencesMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.578
+!MESSAGE NLS unused message: LineWrappingTabPage_general_settings in: org.eclipse.jdt.internal.ui.preferences.formatter.FormatterMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.578
+!MESSAGE NLS unused message: LineWrappingTabPage_do_not_join_lines in: org.eclipse.jdt.internal.ui.preferences.formatter.FormatterMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.578
+!MESSAGE NLS unused message: CommentsTabPage_do_not_join_lines in: org.eclipse.jdt.internal.ui.preferences.formatter.FormatterMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateHashCodeEqualsDialog_blocks_button in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_template_content in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_template_name in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_templateManagerApplyButton in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_selectioninfo_more in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_methods_node in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_fields_node in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_inherited_fields_node in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.593
+!MESSAGE NLS unused message: GenerateToStringDialog_inherited_methods_node in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_string_format_combo in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_manage_templates_button in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_code_style_combo in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_skip_null_button in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_defaultTemplateName in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_dialog_title in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_down_button in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_templatesManagerNewButton in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_newTemplateName in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_templatesManagerRemoveButton in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_up_button in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: OpenTypeAction_no_active_WorkbenchPage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_templateEdition_NewWindowTitle in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_templateEdition_TemplateNameEmptyErrorMessage in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_templateEdition_WindowTitle in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_templatesManagerPreview in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_newTemplateNameArg in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_teplatesManagerEditButton in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_generated_code_group in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_codeStyleConfigureButton in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_customBuilderConfig_applyButton in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.609
+!MESSAGE NLS unused message: GenerateToStringDialog_customBuilderConfig_browseButton in: org.eclipse.jdt.internal.ui.JavaUIMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.875
+!MESSAGE NLS unused message: CommonViewerSorter_NoContentExtensionForObject in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:40.875
+!MESSAGE NLS unused message: NavigatorContentService_problemSavingPreferences in: org.eclipse.ui.internal.navigator.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.671
+!MESSAGE NLS unused message: MarkerFilter_cloneFilterName in: org.eclipse.ui.views.markers.internal.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.906
+!MESSAGE NLS unused message: GenerateMethodAbstractAction_super_class in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.906
+!MESSAGE NLS unused message: GenerateMethodAbstractAction_error_removed_type in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.906
+!MESSAGE NLS unused message: GenerateMethodAbstractAction_error_cannot_create in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.906
+!MESSAGE NLS unused message: GenerateMethodAbstractAction_error_not_applicable in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.906
+!MESSAGE NLS unused message: GenerateToStringAction_label in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.906
+!MESSAGE NLS unused message: GenerateToStringAction_error_caption in: org.eclipse.jdt.internal.ui.actions.ActionMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:41.937
+!MESSAGE NLS unused message: AnnotationsConfigurationBlock_isNavigationTarget in: org.eclipse.ui.internal.editors.text.TextEditorMessages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.218
+!MESSAGE NLS unused message: GotoResourceDialog_GoToTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.218
+!MESSAGE NLS unused message: WorkingSetActionProvider_multipleWorkingSets in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.218
+!MESSAGE NLS unused message: ProjectExplorer_toolTip in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.218
+!MESSAGE NLS unused message: ProjectExplorer_toolTip2 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.218
+!MESSAGE NLS unused message: ProjectExplorer_toolTip3 in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.218
+!MESSAGE NLS unused message: ProjectExplorerPart_workspace in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.218
+!MESSAGE NLS unused message: ProjectExplorerPart_workingSetModel in: org.eclipse.ui.internal.navigator.resources.plugin.messages
+
+!ENTRY org.eclipse.osgi 2 1 2010-06-16 16:41:43.234
+!MESSAGE NLS unused message: ResourceMgmtActionProvider_logTitle in: org.eclipse.ui.internal.navigator.resources.plugin.messages
